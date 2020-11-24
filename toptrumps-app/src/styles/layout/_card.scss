@@ -1,0 +1,138 @@
+
+
+.card-container {
+  padding: 10px;
+}
+
+.card-container.winner .card-result {
+  visibility: visible;
+}
+
+.card-result {
+  background-color: rgba(211,211,211,0.5);
+  color: white;
+  border-radius: 10%;
+  font-size: 2em;
+  margin-top:-50px;
+  margin-bottom: 10px;
+  visibility: hidden;
+}
+.top_back {
+  justify-content: center;
+  position: static;
+  margin: auto;
+
+
+}
+.card {
+  background: radial-gradient(ellipse farthest-corner at right bottom,
+  #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%,
+  #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+  border-radius: 20px;
+  opacity: 0.8;
+  width: 300px;
+  height: 440px;
+  padding: 10px;
+}
+
+.card.closed {
+  background: radial-gradient(ellipse farthest-corner at right bottom,
+  #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+  radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%,
+  #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
+
+  opacity:0.8;
+  border-radius: 20px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 420px;
+}
+
+.card-header {
+  background-color: #232323;
+  color: white;
+  font-family: Comic Sans MS;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  padding: 5px;
+}
+
+.card-header h3 {
+  text-align: left;
+  padding: 0;
+  margin: 0 0 7px 0;
+}
+
+.card-additional-info {
+  overflow: hidden;
+  max-width: 100%;
+  font-family: Comic Sans MS;
+}
+
+.card-additional-info div{
+  text-align: left;
+  font-size: .7em;
+  font-style: italic;
+  font-family: Comic Sans MS;
+  margin: 0 0 5px 0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.card-image-container {
+  overflow: hidden;
+  border: none;
+  height: 225px;
+  max-height: 225px;
+}
+
+.card-image {
+  height: 100%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 80%;
+}
+
+.card-feature-list {
+  border: 1px solid #232323;
+  border-top: 0;
+  font-family: Comic Sans MS;
+  border-radius: 10px;
+  background-color:  #232323;
+  padding: 0 0 5px 0;
+  font-size: .8em;
+  color: white;
+}
+
+
+.card-feature-row {
+  padding: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card-feature-value {
+  cursor: pointer;
+}
+
+.card-feature-value:hover,
+.card-feature-value.selected,
+.card-feature-label.selected {
+  font-weight: bold;
+  color: rgb(255,215,0);
+}
+
+.selected-feature {
+  margin-top: 10px;
+  color: white;
+  font-size: 1.2em;
+  padding: 10px;
+  border-radius: 40%;
+  background-color: rgba(35,35,35,0.8);
+  font-family: Comic Sans MS;
+}

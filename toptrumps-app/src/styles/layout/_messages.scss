@@ -1,0 +1,166 @@
+.message_form {
+  padding: 2%;
+  width: 50%;
+  height: 40%;
+  border-radius: 20px;
+  margin-left:25%;
+
+
+
+
+}
+.messanger{
+  height: 600px;
+  font-family: Comic Sans MS;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  margin-bottom: auto;
+  text-align: center;
+  padding:0 2em;
+  border-radius: 30px;
+  box-shadow: 0px 2px 7px rgba(255,255,255, 0.8);
+  color: white;
+  background: rgba(128,128,128,0.5);
+  display: grid;
+}
+.message_field {
+  padding-bottom: 2%;
+  border: none;
+  border-radius: 10px;
+  background-color:rgb(135,206,250);
+  justify-content: space-around;
+  color: white;
+  margin-left: 1%;
+  size:30%;
+
+
+
+}
+
+
+
+.message_item {
+  padding-bottom: 20px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  background-color:rgba(128,128,128,0.5);
+  justify-content: space-around;
+  padding:2px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.3);
+  color: white;
+  overflow-y: scroll;
+  overflow: auto;
+}
+
+
+
+.message_list {
+  list-style-type: none;
+  overflow-y: scroll;
+  overflow: auto;
+  justify-content: space-around;
+}
+
+
+
+.submit {
+  position: relative;
+  margin-right:10%;
+}
+
+
+
+.message_texts {
+  padding: 4%;
+  border-radius: 20%;
+  margin-top: 2%;
+  font-family: Comic Sans MS;
+  line-height: 20%;
+  justify-content: space-around;
+}
+
+
+
+.edit_button {
+  border-radius: 12px;
+  padding: 30px;
+  background: none;
+  border: none;
+  color: white;
+
+
+
+
+}
+
+
+
+.edit_button:hover {
+  color: #FFFF00;
+}
+
+
+
+
+.delete_button {
+  border-radius: 12px;
+  padding: 2%;
+  background: none;
+  border: none;
+  color: white;
+  padding-left: 2px;
+
+
+
+}
+
+
+
+.delete_button:hover {
+  color: #FF0000;
+}
+
+
+
+.save_button {
+  border-radius: 12px;
+  padding: 30px;
+  background: none;
+  border: none;
+  color: white;
+
+
+
+
+}
+
+
+
+.save_button:hover {
+  color: #FFFF00;
+}
+
+
+
+
+.reset_button {
+  border-radius: 12px;
+  padding: 2%;
+  background: none;
+  border: none;
+  color: white;
+  padding-left: 2px;
+
+
+
+}
+
+
+
+.reset_button:hover {
+  color: #FF0000;
+}

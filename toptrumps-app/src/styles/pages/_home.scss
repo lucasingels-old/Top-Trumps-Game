@@ -1,0 +1,22 @@
+.home-container {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  margin: auto;
+}
+
+
+ .home-container {
+   background: #000000 url('../assets/images/stadium4.jpg') no-repeat 1px 0;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   overflow-y: hidden;
+ }
+
+ .home_grid {
+   justify-content: center;
+ }

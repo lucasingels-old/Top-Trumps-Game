@@ -1,0 +1,54 @@
+
+.control-panel,
+.score-panel {
+  flex: auto;
+}
+
+.score-panel {
+  flex-basis: 8%;
+}
+
+.player-scores {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 10px;
+}
+
+.player-scores div {
+  width: 100px;
+  height: 100px;
+  background: rgba(0, 0, 0, 0) url('../assets/images/deckwhite.png') no-repeat 0 0;
+  background-size: contain;
+  position: relative;
+}
+
+.player-score {
+  color: white;
+  font-weight: bold;
+  border-radius: 20px;
+  background: #333;
+  padding: 10px;
+  border: 3px solid #222;
+  position: absolute;
+  top: 30px;
+  left: 60px;
+}
+
+.player-scores div:nth-child(even) {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+
+.player-scores div:nth-child(even) .player-score {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}

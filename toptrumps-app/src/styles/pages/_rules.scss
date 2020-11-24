@@ -1,0 +1,165 @@
+/* Styling for Rules Page */
+ .rules {
+   overflow: auto;
+   border: 1px  #232323;
+   height: 225px;
+   max-height: 225px;
+   padding: 700px;
+   background: #000000 url('../assets/images/red-card4.png') no-repeat 1px 0;
+   text-align: center;
+   background-opacity: 0.6;
+   background-size: cover;
+   overflow-y: hidden;
+ }
+.ttop {
+  position: absolute;
+  size: 600%;
+  top:60%;
+  left: 30%;
+  opacity: 0.5;
+}
+
+.continue_message {
+  font-size: 300%;
+  color: #FFD700;
+  opacity: 0.7;
+  margin-top: auto;
+  font-family: Comic Sans MS;
+  position: absolute;
+  margin-top: auto;
+  top: 30%;
+  left: 40%;
+  font-style: Comic Sans MS;
+}
+
+
+ .h1 {
+   font-size: 300%;
+   color: #FFD700;
+   opacity: 0.7;
+   margin-top: auto;
+   font-family: Comic Sans MS;
+   position: absolute;
+   margin-top: auto;
+   top: 20%;
+   left: 40%;
+   font-style: Comic Sans MS;
+   overflow-y: hidden;
+
+ }
+
+/* Styling for Introduction paragraph for rules page */
+ .introduction {
+   background: rgba(211,211,211,0.5);
+   opacity: 0.6;
+   color: #FFD700;
+   padding: 1.8%;
+   border-radius: 30%;
+   font-family: Comic Sans MS;
+   text-align: center;
+   margin-left: 0;
+   position: absolute;
+   top: 30%;
+   left: 6%;
+}
+
+.introduction_paragraph {
+  color: white;
+  font-family: Comic Sans MS;
+  margin-left: 0;
+  padding: 1.8%;
+  background: rgba(211,211,211,0.5);
+  position: absolute;
+  top: 42%;
+  left: 3%;
+  right: 76%;
+}
+
+/* Styling for Players and Cards paragraph for rules page */
+.players_and_cards {
+  background: rgba(211,211,211,0.5);
+  opacity: 0.6;
+  color: #FFD700;
+  padding: 1.8%;
+  border-radius: 35%;
+  border-radius: 30%;
+  font-family: Comic Sans MS;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  position: absolute;
+  top: 30%;
+  left: 35%;
+}
+
+.players_and_cards_paragraph {
+  color: white;
+  margin-left: 0;
+  color: white;
+  font-family: Comic Sans MS;
+  margin-left: 0;
+  position: absolute;
+  text-align: left;
+  top: 42%;
+  left: 38%;
+  right: 25%;
+}
+
+/* Styling for Deal and Play paragraph for rules page */
+.deal_and_play {
+  background: rgba(211,211,211,0.5);
+  opacity: 0.6;
+  color: #FFD700;
+  padding: 1.8%;
+  border-radius: 30%;
+  font-family: Comic Sans MS;
+  text-align: left;
+  margin-left: 0;
+  position: absolute;
+  top: 70%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.deal_and_play_paragraph {
+  color: white;
+  margin-left: 0;
+  color: white;
+  font-family: Comic Sans MS;
+  margin-left: 0;
+  position: absolute;
+  top: 84%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Styling for ties paragraph for rules page */
+.ties {
+  background: rgba(211,211,211,0.5);
+  opacity: 0.6;
+  color: #FFD700;
+  padding: 1.8%;
+  border-radius: 30%;
+  font-family: Comic Sans MS;
+  text-align: center;
+  margin-left: 0;
+  position: absolute;
+  top: 68%;
+  left: 37%;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+
+.ties_paragraph {
+  color: white;
+  margin-left: 0;
+  color: white;
+  font-family: Comic Sans MS;
+  margin-left: 0;
+  position: absolute;
+  text-align: left;
+  top: 82%;
+  left: 38%;
+  right: 25%;
+}

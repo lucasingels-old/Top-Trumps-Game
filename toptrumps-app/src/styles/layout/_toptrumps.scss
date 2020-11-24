@@ -1,0 +1,20 @@
+.top-trumps {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 100vh;
+  text-align: center;
+  background: #000000 url('../assets/images/stadium.jpg') no-repeat 1px 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.top-trumps div {
+  /* border: 1px solid blue; */
+}
+
+body {
+   background-color: #282c34;
+}

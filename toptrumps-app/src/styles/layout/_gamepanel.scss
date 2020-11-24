@@ -1,0 +1,31 @@
+/* Styling for Game Panel */
+.game-panel {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-grow: 1;
+  padding: 0 50px;
+}
+
+.game-panel-result {
+  color: white;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  font-size: 2em;
+  margin-top:-50px;
+  margin-bottom: 10px;
+  visibility: visible;
+  position: absolute;
+  padding: 0 80px;
+}
+
+.game-panel-x {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  opacity: 0.7;
+  font-family: Comic Sans MS;
+  font-size: 3.5em;
+}

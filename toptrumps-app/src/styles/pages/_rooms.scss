@@ -1,0 +1,47 @@
+/* This is the styling for the room items */
+.rooms {
+  height: 600px;
+  font-family: Comic Sans MS;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: auto;
+  text-align: center;
+  padding:0 2em;
+  border-radius: 30px;
+  box-shadow: 0px 2px 7px rgba(255,255,255, 0.8);
+  color: white;
+  background: rgba(128,128,128,0.5);
+  display: grid;
+}
+
+.room_list {
+  list-style-type: none;
+  overflow-y: scroll;
+  overflow: auto;
+
+
+}
+
+.room_item {
+  padding: 10px 90px;
+  border-radius: 10px;
+  background: rgba(255,255,255,0.3);
+  color: white;
+  overflow-y: scroll;
+  overflow: auto;
+}
+
+.room_item:hover {
+  font-weight: bold;
+  color: rgb(255,215,0);
+}
+
+.create_game_field {
+  padding-bottom: 2%;
+  border: none;
+  border-radius: 10px;
+  background-color:rgba(128,128,128,0.5);
+  justify-content: space-around;
+}

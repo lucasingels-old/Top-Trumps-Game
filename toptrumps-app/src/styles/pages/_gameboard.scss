@@ -1,0 +1,66 @@
+.game-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  padding: 2rem 0;
+  margin: auto;
+}
+
+
+.control-panel {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.button {
+  width: 200px;
+}
+
+/* start da css for da buttons */
+.btn {
+  border-radius: 5px;
+  padding: 15px 25px;
+  font-size: 22px;
+  text-decoration: none;
+  margin: 20px;
+  color: #fff;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.btn.green.disabled {
+  background-color: #333;
+  box-shadow: 0px 5px 0px 0px #15B358;
+}
+
+.btn:active {
+  transform: translate(0px, 5px);
+  -webkit-transform: translate(0px, 5px);
+  box-shadow: 0px 1px 0px 0px;
+}
+
+.green {
+  background-color: #2ecc71;
+  box-shadow: 0px 5px 0px 0px #15B358;
+}
+
+.green:hover {
+  background-color: #48E68B;
+}
+
+.orange {
+  background-color: yellow;
+  box-shadow: 0px 5px 0px 0px #CD6509;
+  color: black;
+  font-weight: bold;
+}
+
+.orange:hover {
+  background-color: #FF983C;
+}

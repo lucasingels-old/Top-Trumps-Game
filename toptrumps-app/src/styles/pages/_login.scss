@@ -1,0 +1,67 @@
+/* Styling for login page */
+/* Need to change the font for the login heading to Comic Sans MS */
+.login {
+height: 560px;
+font-family: Comic Sans MS;
+width: 500px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;
+text-align: center;
+padding:0 2em;
+border-radius: 30px;
+box-shadow: 0px 2px 7px rgba(255,255,255,0.5);
+overflow: hidden;
+color: white;
+background: rgba(128,128,128,0.5);
+display: grid;
+
+
+}
+
+/* This is where you log in with your email address and password boxes */
+.details {
+  color: #FF0000;
+  padding: 6%;
+  border-radius: 20%;
+  margin-top: 8%;
+  font-family: Comic Sans MS;
+  line-height: 150%;
+  justify-content: space-around;
+}
+
+.email {
+  padding-bottom: 2%;
+  border: none;
+  border-radius: 10px;
+  background-color:rgba(128,128,128,0.5);
+  justify-content: space-around;
+
+}
+
+.not_list {
+list-style-type: none;
+}
+
+.text {
+  color: white;
+}
+
+.password {
+  color: white;
+}
+
+.password {
+  padding-top: 2%;
+  border: none;
+  border-radius: 10px;
+  background-color:rgba(128,128,128,0.5);
+
+}
+
+.forget_password {
+  font-size: 1em;
+  margin-top: auto;
+  font-family: Comic Sans MS;
+  align-items: center;
+}

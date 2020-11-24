@@ -1,0 +1,92 @@
+
+/* Styling for Profile Page */
+
+ .profile-container {
+   overflow: auto;
+   border: 1px  #232323;
+   height: 225px;
+   max-height: 225px;
+   padding: 600px;
+   background: #000000 url('../assets/images/stadium.jpg') no-repeat 1px 0;
+
+ }
+
+
+.profile_container {
+  overflow: auto;
+  border: solid;
+  color: white;
+  font-family: Comic Sans MS;
+  padding: 20px;
+  border: none;
+  background: rgba(211,211,211,0.5);
+  position: absolute;
+  top: 38%;
+  left: 15%;
+}
+
+.avatar_photo {
+width: 185px;
+height: 185px;
+}
+
+.profile_details {
+  border: solid;
+  color: white;
+  font-family: Comic Sans MS;
+  border-width: thin;
+  border-color: #D3D3D3;
+  background: #D3D3D3;
+  opacity: 0.5;
+  position: absolute;
+  top: 38%;
+  left: 35%;
+  padding: 140px;
+  padding-left: 500px;
+
+}
+
+.profile_heading {
+  overflow: auto;
+  color: white;
+  font-family: Comic Sans MS;
+  text-align: center;
+  position: absolute;
+  opacity: 0.8;
+  font-size: 3em;
+  margin-top: auto;
+  top: 20%;
+  left: 45%;
+}
+
+.player_name {
+  overflow: auto;
+  color: grey;
+  font-family: Comic Sans MS;
+  text-align: center;
+  position: absolute;
+  padding: 8px;
+  background-color: white;
+  top: 43%;
+  left: 39%;
+  opacity: 0.8;
+  size: 3em;
+  border-radius: 10px;
+
+}
+
+.player_email {
+  overflow: auto;
+  color: grey;
+  font-family: Comic Sans MS;
+  text-align: center;
+  position: absolute;
+  padding: 8px;
+  background-color: white;
+  top: 50%;
+  left: 39%;
+  opacity: 0.8;
+  size: 3em;
+  border-radius: 10px;
+
+}

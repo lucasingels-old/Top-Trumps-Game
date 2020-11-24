@@ -1,0 +1,294 @@
+{
+		 "soccerplayers": [
+		{
+		   "name": "Lionel Messi",
+			 "image": "../../assets/images/messitrump.png",
+			 "nationality": "Argentina",
+		   "overall": 94,
+		   "potential": 94,
+		   "value": 95500000,
+		   "skill": 4,
+		   "accuracy": 94,
+			 "topTrump": true
+		}, {
+		   "name": "Cristiano Ronaldo",
+			 "image": "../../assets/images/cristiano_ronaldo.jpg",
+			 "nationality": "Portugal",
+		   "overall": 93,
+		   "potential": 93,
+		   "value": 58500000,
+		   "skill": 5,
+		   "accuracy": 76
+		}, {
+		   "name": "Neymar da Silva",
+			 "image": "../../assets/images/neymar.jpg",
+			 "nationality": "Brazil",
+		   "overall": 92,
+		   "potential": 92,
+		   "value": 105500000,
+		   "skill": 5,
+		   "accuracy": 87
+		}, {
+		   "name": "Jan Oblak",
+			 "image": "../../assets/images/jan_oblak.jpg",
+			 "nationality": "Slovenia",
+		   "overall": 91,
+		   "potential": 93,
+		   "value": 77500000,
+		   "skill": 1,
+		   "accuracy": 14
+		}, {
+		   "name": "Eden Hazard",
+			 "image": "../../assets/images/hazard.jpg",
+			 "nationality": "Belgium",
+		   "overall": 91,
+		   "potential": 91,
+		   "value": 90000000,
+		   "skill": 4,
+		   "accuracy": 79
+		}, {
+		   "name": "Kevin De Bruyne",
+			 "image": "../../assets/images/de_bruyne.jpg",
+			 "nationality": "Belgium",
+		   "overall": 91,
+		   "potential": 91,
+		   "value": 90000000,
+		   "skill": 4,
+		   "accuracy": 83
+		}, {
+		   "name": "Marc Stegen",
+			 "image": "../../assets/images/ter_stegen.jpg",
+			 "nationality": "Germany",
+		   "overall": 90,
+		   "potential": 93,
+		   "value": 67500000,
+		   "skill": 1,
+		   "accuracy": 12
+		}, {
+		   "name": "Virgil van Dijk",
+			 "image": "../../assets/images/van_dijk.jpg",
+			 "nationality": "Netherlands",
+		   "overall": 90,
+		   "potential": 91,
+		   "value": 78000000,
+		   "skill": 2,
+		   "accuracy": 70
+		}, {
+		   "name": "Luka Modric",
+			 "image": "../../assets/images/modric.jpg",
+			 "nationality": "Croatia",
+		   "overall": 90,
+		   "potential": 90,
+		   "value": 45000000,
+		   "skill": 4,
+		   "accuracy": 78
+		}, {
+		   "name": "Mohamed Salah",
+			 "image": "../../assets/images/salah.jpg",
+			 "nationality": "Egypt",
+		   "overall": 90,
+		   "potential": 90,
+		   "value": 80500000,
+		   "skill": 4,
+		   "accuracy": 69
+		}, {
+		   "name": "Kylian Mbappe",
+			 "image": "../../assets/images/mbappe.jpg",
+			 "nationality": "France",
+		   "overall": 89,
+		   "potential": 95,
+		   "value": 93500000,
+		   "skill": 5,
+		   "accuracy": 63
+		}, {
+		   "name": "Kalidou Koulibaly",
+			 "image": "../../assets/images/koulibaly.jpg",
+			 "nationality": "Senegal",
+		   "overall": 89,
+		   "potential": 91,
+		   "value": 67500000,
+		   "skill": 2,
+		   "accuracy": 28
+		}, {
+		   "name": "Harry Kane",
+			 "image": "../../assets/images/kane.jpg",
+			 "nationality": "England",
+		   "overall": 89,
+		   "potential": 91,
+		   "value": 83000000,
+		   "skill": 3,
+		   "accuracy": 68
+		}, {
+		   "name": "Alisson Bekker",
+			 "image": "../../assets/images/becker.jpg",
+			 "nationality": "Brazil",
+		   "overall": 89,
+		   "potential": 91,
+		   "value": 58000000,
+		   "skill": 1,
+		   "accuracy": 18
+		}, {
+		   "name": "David Quintana",
+			 "image": "../../assets/images/de_gea.jpg",
+			 "nationality": "Spain",
+		   "overall": 89,
+		   "potential": 90,
+		   "value": 56000000,
+		   "skill": 1,
+		   "accuracy": 19
+		}, {
+		   "name": "N'Golo Kante",
+			 "image": "../../assets/images/kante.jpg",
+			 "nationality": "France",
+		   "overall": 89,
+		   "potential": 90,
+		   "value": 66000000,
+		   "skill": 2,
+		   "accuracy": 49
+		}, {
+		   "name": "Giorgio Chiellini",
+			 "image": "../../assets/images/chiellini.jpg",
+			 "nationality": "Italy",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 24500000,
+		   "skill": 2,
+		   "accuracy": 31
+		}, {
+		   "name": "Sergio Aguero",
+			 "image": "../../assets/images/aguero.jpg",
+			 "nationality": "Argentina",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 60000000,
+		   "skill": 4,
+		   "accuracy": 73
+		}, {
+		   "name": "Sergio Ramos",
+			 "image": "../../assets/images/ramos.jpg",
+			 "nationality": "Spain",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 31500000,
+		   "skill": 3,
+		   "accuracy": 72
+		}, {
+		   "name": "Luis Suarez",
+			 "image": "../../assets/images/suarez.jpg",
+			 "nationality": "Uruguay",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 53000000,
+		   "skill": 3,
+		   "accuracy": 82
+		}, {
+		   "name": "Robert Lewandowski",
+			 "image": "../../assets/images/lewandowski.jpg",
+			 "nationality": "Poland",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 64500000,
+		   "skill": 4,
+		   "accuracy": 85
+		}, {
+		   "name": "Sergio Burgos",
+			 "image": "../../assets/images/busquets.jpg",
+			 "nationality": "Spain",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 55000000,
+		   "skill": 3,
+		   "accuracy": 68
+		}, {
+		   "name": "Antoine Griezmann",
+			 "image": "../../assets/images/greizmann.jpg",
+			 "nationality": "France",
+		   "overall": 89,
+		   "potential": 89,
+		   "value": 69000000,
+		   "skill": 4,
+		   "accuracy": 85
+		}, {
+		   "name": "Paulo Dybala",
+			 "image": "../../assets/images/dybala.jpg",
+			 "nationality": "Argentina",
+		   "overall": 88,
+		   "potential": 92,
+		   "value": 76500000,
+		   "skill": 4,
+		   "accuracy": 88
+		}, {
+		   "name": "Paul Pogba",
+			 "image": "../../assets/images/pogba.jpg",
+			 "nationality": "France",
+		   "overall": 88,
+		   "potential": 91,
+		   "value": 72500000,
+		   "skill": 5,
+		   "accuracy": 82
+		}, {
+		   "name": "Ederson Moraes",
+			 "image": "../../assets/images/ederson.jpg",
+			 "nationality": "Brazil",
+		   "overall": 88,
+		   "potential": 91,
+		   "value": 54500000,
+		   "skill": 1,
+		   "accuracy": 20
+		}, {
+		   "name": "Raheem Sterling",
+			 "image": "../../assets/images/sterling.jpg",
+			 "nationality": "England",
+		   "overall": 88,
+		   "potential": 90,
+		   "value": 73000000,
+		   "skill": 4,
+		   "accuracy": 63
+		}, {
+		   "name": "Christian Eriksen",
+			 "image": "../../assets/images/eriksen.jpg",
+			 "nationality": "Denmark",
+		   "overall": 88,
+		   "potential": 89,
+		   "value": 68000000,
+		   "skill": 4,
+		   "accuracy": 86
+		}, {
+		   "name": "Thibaut Courtois",
+			 "image": "../../assets/images/courtois.jpg",
+			 "nationality": "Belgium",
+		   "overall": 88,
+		   "potential": 89,
+		   "value": 48000000,
+		   "skill": 1,
+		   "accuracy": 20
+		}, {
+		   "name": "Gerard Piqué",
+			 "image": "../../assets/images/piqué.jpg",
+			 "nationality": "Spain",
+		   "overall": 88,
+		   "potential": 88,
+		   "value": 38000000,
+		   "skill": 2,
+		   "accuracy": 43
+		}, {
+		   "name": "Samir Handanovic",
+			 "image": "../../assets/images/handanovic.jpg",
+			 "nationality": "Slovenia",
+		   "overall": 88,
+		   "potential": 88,
+		   "value": 26000000,
+		   "skill": 1,
+		   "accuracy": 14
+		}, {
+		   "name": "Manuel Neuer",
+			 "image": "../../assets/images/neuer.jpg",
+			 "nationality": "Germany",
+		   "overall": 88,
+		   "potential": 88,
+		   "value": 32000000,
+		   "skill": 1,
+		   "accuracy": 11
+		}
+	]
+}
